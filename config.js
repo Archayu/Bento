@@ -170,20 +170,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Chat GPT',
+					link: 'https://chatgpt.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Claude',
+					link: 'https://https://claude.ai',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Discord Dev',
+					link: 'https://discord.com/developers/applications',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Host',
+					link: 'https://host.heavenmusic.xyz',
 				},
 			],
 		},
