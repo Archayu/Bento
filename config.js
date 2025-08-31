@@ -12,13 +12,13 @@ const CONFIG = {
 
   
 	// General
-	name: 'John',
+	name: 'Archayu',
 	openInNewTab: true,
 	twelveHourFormat: false,
-  title: 'Bento',
+  title: 'Arch',
 
 	// Theme
-	theme: 'bento',
+	theme: 'catppuccin',
 	imageBackground: false,
   imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
@@ -74,9 +74,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Notion',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://notion.so',
 		},
 		{
 			id: '4',
@@ -92,9 +92,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
